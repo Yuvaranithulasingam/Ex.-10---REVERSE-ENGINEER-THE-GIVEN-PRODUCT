@@ -34,10 +34,10 @@
 ![WhatsApp Image 2024-04-22 at 14 20 44_1d67a8da](https://github.com/Yuvaranithulasingam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121418522/dbfce001-7bbc-4797-889f-1d687c55c567)
 
 ### Output:
+![image](https://github.com/Yuvaranithulasingam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121418522/7f28731f-32b6-4a85-9bd0-20b3e63c764d)
 
-
-### Name:
-### Register Number:
+### Name:YUVARNI T
+### Register Number:212222110057
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
