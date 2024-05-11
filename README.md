@@ -34,7 +34,7 @@
 ![image](https://github.com/Yuvaranithulasingam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121418522/68ea51fc-1971-4a51-819d-735981b5c07a)
 
 ### Output:
-![image](https://github.com/Yuvaranithulasingam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121418522/7f28731f-32b6-4a85-9bd0-20b3e63c764d)
+![image](https://github.com/Yuvaranithulasingam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121418522/6775cc3d-3c65-4da4-943d-cce7d2fd7df8)
 
 ### Name:YUVARNI T
 ### Register Number:212222110057
